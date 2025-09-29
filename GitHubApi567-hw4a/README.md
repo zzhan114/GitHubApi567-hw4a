@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/<your-username>/GitHubApi567-hw4a.svg?branch=main)](https://app.travis-ci.com/<your-username>/GitHubApi567-hw4a)
 
 # GitHubApi567-hw4a
 
